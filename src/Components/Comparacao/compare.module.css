@@ -1,0 +1,51 @@
+.container {
+    margin: 0 auto;
+    max-width: 800px; 
+  }
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+.table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+
+.checkIcon {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+.header {
+    font-weight: bold;
+}
+
+
+.icon {
+    vertical-align: middle;
+}
+
+
+.textStart {
+    text-align: left;
+}
+
+
+.textCenter {
+    text-align: center;
+    
+}
+
+.textCenter h2{
+    margin-bottom: 10px;
+}
