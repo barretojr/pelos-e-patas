@@ -18,8 +18,6 @@ const Footer = () => {
               <h3>INSTITUCIONAL</h3>
               <Link to="/">Quem Somos</Link>
               <Link to="/">Entregas e Prazos</Link>
-              <Link to="/">Politica de Trocas e Devoluções</Link>
-              <Link to="/">Politicas de Privacidade</Link>
               <Link to="/">Contato</Link>
             </ul>
             <ul className={style.ul}>
